@@ -12,27 +12,29 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
 
 ## 📚 Certificaciones de Cursos
 
+## 📚 Certificaciones de Cursos
+
 * **Power BI TOTAL - Analista de Datos Avanzado** - *Udemy* (15.5 horas)  
-  👉 [Ver Certificado]([https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Microsoft%20Power%20BI%20Kevin%20Araya.jpg])
+  👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Microsoft%20Power%20BI%20Kevin%20Araya.jpg)
   * **Conocimientos:** Modelado de datos, Power Query avanzado, DAX e inteligencia de tiempo.
 
 * **Microsoft Excel Avanzado** - *ILC Group* (32 horas)  
-  👉 [Ver Certificado]([https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20Avanzado%20Kevin%20Araya.jpg])
+  👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20Avanzado%20Kevin%20Araya.jpg)
   * **Conocimientos:** Macros, VBA, Solver, validación de datos y funciones complejas.
 
 * **Microsoft Excel Básico e Intermedio** - *ILC Group* (32 horas)  
-  👉 [Ver Certificado]([(https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20B%C3%A1sico%20e%20Intermedio%20Kevin%20Araya.jpg)])
+  👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20B%C3%A1sico%20e%20Intermedio%20Kevin%20Araya.jpg)
 
 ## 📚 Certificaciones de Diplomados
 
 ### Gestión de Proyectos y Metodologías
 * **Diplomado: Diseño y Gestión Ágil de Proyectos** - *UPLA / Sence* (100 horas)
-  👉 [Ver Certificado]([Reemplaza_con_tu_link_aqui](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Diplomados%20Kevin%20Araya%20Miranda/Diplomado%20Dise%C3%B1o%20y%20Gesti%C3%B3n%20%C3%81gil%20de%20Proyectos%20Ed%203%20Kevin%20Araya.jpg))
+  👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Diplomados%20Kevin%20Araya%20Miranda/Diplomado%20Dise%C3%B1o%20y%20Gesti%C3%B3n%20%C3%81gil%20de%20Proyectos%20Ed%203%20Kevin%20Araya.jpg)
   * **Módulos (100/100):** Metodologías Ágiles, Enfoques Lean y Design Thinking.
 
 ### Tecnología y Desarrollo Web
 * **Diplomado: Diseño y Programación Web** - *AIEP / Sence* (100 horas)
-  👉 [Ver Certificado]([Reemplaza_con_tu_link_aqui](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Diplomados%20Kevin%20Araya%20Miranda/Diplomado%20Dise%C3%B1o%20y%20Programaci%C3%B3n%20Web%20Ed%206%20Kevin%20Araya.jpg))
+  👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Diplomados%20Kevin%20Araya%20Miranda/Diplomado%20Dise%C3%B1o%20y%20Programaci%C3%B3n%20Web%20Ed%206%20Kevin%20Araya.jpg)
   * **Módulos (100/100):** HTML5+CSS, JavaScript y WordPress.
 ---
 
