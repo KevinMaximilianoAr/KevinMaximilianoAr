@@ -40,16 +40,16 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
 ## 🚀 Proyectos y Participaciones Destacadas
 
 ### 🔐 Control de Asistencia Biométrico (IoT)
-* **Programa de Maduración Tecnológica 2025** - *Facultad de Ingeniería (Ingeniería 2030 UTA)* 👉 [Ver Selección](Reemplaza_con_link_Seleccion) | 👉 [Ver Programa](Reemplaza_con_link_Programa)
-  * Proyecto adjudicado en la convocatoria 2025. Consiste en el diseño e implementación de un sistema de asistencia basado en hardware y sensores biométricos (integrando tecnologías como Raspberry Pi) para la optimización y control automatizado en el sector comercial.
+* **Programa de Maduración Tecnológica 2025** - *Facultad de Ingeniería (Ingeniería 2030 UTA)* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Maduraci%C3%B3n%20Tecnol%C3%B3gica%20Kevin%20Araya.jpg) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Selecci%C3%B3n%20Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg.png)
+  * Proyecto adjudicado para el diseño e implementación de un sistema de asistencia basado en hardware y sensores biométricos para la optimización de procesos comerciales.
 
 ### 💧 Programa AQUA365: Innovación por el Agua
-* **Fundación Ingeniería Sin Fronteras Chile & FCFM (U. de Chile)** *(Ago - Dic 2025)* 👉 [Ver Certificado](Reemplaza_con_link_AQUA365)
-  * Desarrollo y co-diseño de propuestas tecnológicas (telemetría y monitoreo) orientadas a resolver problemáticas de acceso y gestión hídrica en comunidades vulnerables, aportando desde la ingeniería sustentable y el impacto social.
+* **Fundación Ingeniería Sin Fronteras Chile & FCFM (U. de Chile)** 👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg)
+  * Co-diseño de soluciones tecnológicas y monitoreo para resolver problemáticas hídricas mediante ingeniería sustentable.
 
-### 🏥 Desafío de Innovación: Salud SONDA 
-* **Equipo BridgeOps (Finalista)** - *SONDA & Universidad de Chile* 👉 [Ver Finalistas](Reemplaza_con_link_SONDA)
-  * Equipo seleccionado para la etapa final del desafío corporativo, enfocado en la creación de soluciones tecnológicas aplicadas al sector salud.
+### 🏥 Desafío de Innovación: Salud SONDA
+* **Equipo BridgeOps (Finalista)** - *SONDA & Universidad de Chile* 👉 [Ver Finalistas](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Desaf%C3%ADo%20Salud%20SONDA%20Kevin%20Araya.jpg)
+  * Finalista en el desafío corporativo para la creación de soluciones tecnológicas aplicadas al sector salud.
 
 ---
 ## Stack de Conocimientos Complementarios
