@@ -13,11 +13,11 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
 ## 📚 Certificaciones de Cursos
 
 * **Power BI TOTAL - Analista de Datos Avanzado** - *Udemy* (15.5 horas)  
-  👉 [Ver Certificado]([Reemplaza_con_tu_link_aqui](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Microsoft%20Power%20BI%20Kevin%20Araya.jpg))
+  👉 [Ver Certificado]([https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Microsoft%20Power%20BI%20Kevin%20Araya.jpg])
   * **Conocimientos:** Modelado de datos, Power Query avanzado, DAX e inteligencia de tiempo.
 
 * **Microsoft Excel Avanzado** - *ILC Group* (32 horas)  
-  👉 [Ver Certificado]([Reemplaza_con_tu_link_aqui](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20Avanzado%20Kevin%20Araya.jpg))
+  👉 [Ver Certificado]([https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20Avanzado%20Kevin%20Araya.jpg])
   * **Conocimientos:** Macros, VBA, Solver, validación de datos y funciones complejas.
 
 * **Microsoft Excel Básico e Intermedio** - *ILC Group* (32 horas)  
