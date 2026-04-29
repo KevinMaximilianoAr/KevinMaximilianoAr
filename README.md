@@ -35,7 +35,6 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
   👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Diplomados%20Kevin%20Araya%20Miranda/Diplomado%20Dise%C3%B1o%20y%20Programaci%C3%B3n%20Web%20Ed%206%20Kevin%20Araya.jpg)
   * **Módulos (100/100):** HTML5+CSS, JavaScript y WordPress.
 ---
----
 
 ## 🚀 Proyectos y Participaciones Destacadas
 
