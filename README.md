@@ -34,6 +34,7 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
 * **Diplomado: Diseño y Programación Web** - *AIEP / Sence* (100 horas)
   👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Diplomados%20Kevin%20Araya%20Miranda/Diplomado%20Dise%C3%B1o%20y%20Programaci%C3%B3n%20Web%20Ed%206%20Kevin%20Araya.jpg)
   * **Módulos (100/100):** HTML5+CSS, JavaScript y WordPress.
+
 ---
 
 ## Proyectos y Participaciones Destacadas
@@ -51,6 +52,7 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
   * Finalista en el desafío corporativo para la creación de soluciones tecnológicas aplicadas al sector salud.
 
 ---
+
 ## Stack de Conocimientos Complementarios
 * **Análisis y BI:** Power BI, DAX, Power Query, Excel Avanzado.
 * **Automatización:** Power Automate.
