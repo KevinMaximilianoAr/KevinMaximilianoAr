@@ -10,7 +10,7 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
 
 ---
 
-## 📚 Certificaciones de Cursos
+## Certificaciones de Cursos
 
 * **Power BI TOTAL - Analista de Datos Avanzado** - *Udemy* (15.5 horas)  
   👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Microsoft%20Power%20BI%20Kevin%20Araya.jpg)
@@ -23,7 +23,7 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
 * **Microsoft Excel Básico e Intermedio** - *ILC Group* (32 horas)  
   👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20B%C3%A1sico%20e%20Intermedio%20Kevin%20Araya.jpg)
 
-## 📚 Certificaciones de Diplomados
+## Certificaciones de Diplomados
 
 ### Gestión de Proyectos y Metodologías
 * **Diplomado: Diseño y Gestión Ágil de Proyectos** - *UPLA / Sence* (100 horas)
@@ -36,7 +36,7 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
   * **Módulos (100/100):** HTML5+CSS, JavaScript y WordPress.
 ---
 
-## 🚀 Proyectos y Participaciones Destacadas
+## Proyectos y Participaciones Destacadas
 
 ### 🔐 Control de Asistencia Biométrico (IoT)
 * **Programa de Maduración Tecnológica 2025** - *Facultad de Ingeniería (Ingeniería 2030 UTA)* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Maduraci%C3%B3n%20Tecnol%C3%B3gica%20Kevin%20Araya.jpg) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Selecci%C3%B3n%20Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg.png)
