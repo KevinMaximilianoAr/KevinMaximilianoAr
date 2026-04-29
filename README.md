@@ -35,7 +35,23 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
   👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Diplomados%20Kevin%20Araya%20Miranda/Diplomado%20Dise%C3%B1o%20y%20Programaci%C3%B3n%20Web%20Ed%206%20Kevin%20Araya.jpg)
   * **Módulos (100/100):** HTML5+CSS, JavaScript y WordPress.
 ---
+---
 
+## 🚀 Proyectos y Participaciones Destacadas
+
+### 🔐 Control de Asistencia Biométrico (IoT)
+* **Programa de Maduración Tecnológica 2025** - *Facultad de Ingeniería (Ingeniería 2030 UTA)* 👉 [Ver Selección](Reemplaza_con_link_Seleccion) | 👉 [Ver Programa](Reemplaza_con_link_Programa)
+  * Proyecto adjudicado en la convocatoria 2025. Consiste en el diseño e implementación de un sistema de asistencia basado en hardware y sensores biométricos (integrando tecnologías como Raspberry Pi) para la optimización y control automatizado en el sector comercial.
+
+### 💧 Programa AQUA365: Innovación por el Agua
+* **Fundación Ingeniería Sin Fronteras Chile & FCFM (U. de Chile)** *(Ago - Dic 2025)* 👉 [Ver Certificado](Reemplaza_con_link_AQUA365)
+  * Desarrollo y co-diseño de propuestas tecnológicas (telemetría y monitoreo) orientadas a resolver problemáticas de acceso y gestión hídrica en comunidades vulnerables, aportando desde la ingeniería sustentable y el impacto social.
+
+### 🏥 Desafío de Innovación: Salud SONDA 
+* **Equipo BridgeOps (Finalista)** - *SONDA & Universidad de Chile* 👉 [Ver Finalistas](Reemplaza_con_link_SONDA)
+  * Equipo seleccionado para la etapa final del desafío corporativo, enfocado en la creación de soluciones tecnológicas aplicadas al sector salud.
+
+---
 ## Stack de Conocimientos Complementarios
 * **Análisis y BI:** Power BI, DAX, Power Query, Excel Avanzado.
 * **Automatización:** Power Automate.
