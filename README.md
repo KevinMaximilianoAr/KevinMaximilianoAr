@@ -21,7 +21,7 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
   * **Conocimientos:** Macros, VBA, Solver, validación de datos y funciones complejas.
 
 * **Microsoft Excel Básico e Intermedio** - *ILC Group* (32 horas)  
-  👉 [Ver Certificado]([Reemplaza_con_tu_link_aqui](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20B%C3%A1sico%20e%20Intermedio%20Kevin%20Araya.jpg))
+  👉 [Ver Certificado]([(https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Cursos%20Kevin%20Araya%20Miranda/Curso%20Excel%20B%C3%A1sico%20e%20Intermedio%20Kevin%20Araya.jpg)])
 
 ## 📚 Certificaciones de Diplomados
 
