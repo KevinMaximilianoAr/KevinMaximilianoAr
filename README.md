@@ -37,14 +37,14 @@ Bienvenido a mi repositorio de formación y actividades extracurriculares, en es
 
 ## Participaciones en Proyectos
 
-### Control de Asistencia Biométrico: Mediante huella dactilar y reconocimiento facial (En proceso)
-* **Programa de Maduración Tecnológica 2025** - *Facultad de Ingeniería (Ingeniería 2030 UTA)* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Maduraci%C3%B3n%20Tecnol%C3%B3gica%20Kevin%20Araya.jpg) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Selecci%C3%B3n%20Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg.png)
+### Programa Maduración Tecnológica (En proceso)
+* **** - **Ingeniería 2030** - *Equipo: Control de Asistencia Biométrico: Mediante huella dactilar y reconocimiento facial* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Maduraci%C3%B3n%20Tecnol%C3%B3gica%20Kevin%20Araya.jpg) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Selecci%C3%B3n%20Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg.png)
   * Proyecto adjudicado para el diseño e implementación de un sistema de asistencia basado en hardware y sensores biométricos para la optimización de procesos comerciales.
 
 ### Programa AQUA365: Innovación por el Agua (Finalizado)
-* **Ingeniería Sin Fronteras**  - *Equipo AQUA 365: Continuous Improvement* 👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg)
+* **Ingeniería Sin Fronteras** - *Equipo: AQUA 365 Continuous Improvement* 👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg)
   * Co-diseño de soluciones tecnológicas y monitoreo para resolver problemáticas hídricas mediante ingeniería sustentable.
 
 ### Desafío de Salud: Healthcare Tech Challenge (Finalizado)
-* **SONDA | IT Services** - *Equipo BridgeOps* 👉 [Ver Finalistas](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Desaf%C3%ADo%20Salud%20SONDA%20Kevin%20Araya.jpg) | 👉 [Ver Publicación en LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7392360711709999104/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO1vDcB_vZeh9gQ5AmzJqSw_S1JdtIsgww)
+* **SONDA | IT Services** - *Equipo: BridgeOps* 👉 [Ver Finalistas](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Desaf%C3%ADo%20Salud%20SONDA%20Kevin%20Araya.jpg) | 👉 [Ver Publicación en LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7392360711709999104/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO1vDcB_vZeh9gQ5AmzJqSw_S1JdtIsgww)
   * Finalistas en el desafío corporativo para la creación de soluciones tecnológicas aplicadas al sector salud.
