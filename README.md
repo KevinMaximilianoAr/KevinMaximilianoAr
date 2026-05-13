@@ -42,9 +42,9 @@ Bienvenido a mi repositorio de formación y actividades extracurriculares, en es
   * Proyecto adjudicado para el diseño e implementación de un sistema de asistencia basado en hardware y sensores biométricos para la optimización de procesos comerciales.
 
 ### Programa AQUA365: Innovación por el Agua (Finalizado)
-* **Fundación Ingeniería Sin Fronteras Chile & FCFM (U. de Chile)** 👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg)
+* **Ingeniería Sin Fronteras** 👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg)
   * Co-diseño de soluciones tecnológicas y monitoreo para resolver problemáticas hídricas mediante ingeniería sustentable.
 
-### Desafío de Innovación: Salud SONDA (Finalizado)
-* **Equipo BridgeOps (Finalista)** - *SONDA & Universidad de Chile* 👉 [Ver Finalistas](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Desaf%C3%ADo%20Salud%20SONDA%20Kevin%20Araya.jpg)
+### Desafío de Salud: Healthcare Tech Challenge (Finalizado)
+* **SONDA | IT Services** - *Equipo BridgeOps (Finalista)* 👉 [Ver Finalistas](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Desaf%C3%ADo%20Salud%20SONDA%20Kevin%20Araya.jpg) | 👉 [Ver Publicación en LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7392360711709999104/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO1vDcB_vZeh9gQ5AmzJqSw_S1JdtIsgww)
   * Finalista en el desafío corporativo para la creación de soluciones tecnológicas aplicadas al sector salud.
