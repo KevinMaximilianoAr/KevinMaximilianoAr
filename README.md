@@ -1,12 +1,8 @@
-# ¡Hola! Soy Kevin Araya Miranda 👋
+# ¡Hola! Soy Kevin Maximiliano Araya Miranda 👋
 
-**Egresado de Ingeniero Civil Industrial**
+**Egresado de Ingeniero Civil Industrial de Universidad de Tarapacá**
 
-Participación en Programa de Movilidad Nacional Estudiantil en la Universidad de Chile.
-
-Experiencia en el área comercial y de servicios, habiéndome desempeñado como Asesor de Ventas en Yanekén y realicé mi práctica profesional I en Banco de Chile, en Banca de Personas, participando y fortaleciendo mi enfoque financiero y comercial. Por otra parte mi práctica profesional II en CODELCO, Dirección de Riesgos y Control, fortalecendo mi enfoque metodológico y analítica avanzada, complemento mi perfil con participación en iniciativas de innovación y tecnología, como el programa AQUA365 de Ingeniería Sin Fronteras Chile, Healthcare Tech Challenge de SONDA 2025 y el Programa de Maduración Tecnológica de Ingeniería 2030. 
-
-Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me interesa aportar en la optimización de procesos, análisis de datos y mejora continua dentro de las organizaciones.
+Bienvenido a mi repositorio de formación y actividades extracurriculares, en este espacio consolido mi trayectoria de aprendizaje continuo y la aplicación práctica de mis estudios en Ingeniería Civil Industrial en entornos de alta complejidad. Mi objetivo es demostrar cómo la formación técnica se traduce en soluciones escalables y eficiencia operativa.
 
 ---
 
@@ -39,22 +35,14 @@ Manejo herramientas como Microsoft Excel, Power BI, Project, R y Python, y me in
 
 ## Proyectos y Participaciones Destacadas
 
-### 🔐 Control de Asistencia Biométrico (IoT)
+### Control de Asistencia Biométrico (IoT)
 * **Programa de Maduración Tecnológica 2025** - *Facultad de Ingeniería (Ingeniería 2030 UTA)* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Maduraci%C3%B3n%20Tecnol%C3%B3gica%20Kevin%20Araya.jpg) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Selecci%C3%B3n%20Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg.png)
   * Proyecto adjudicado para el diseño e implementación de un sistema de asistencia basado en hardware y sensores biométricos para la optimización de procesos comerciales.
 
-### 💧 Programa AQUA365: Innovación por el Agua
+### Programa AQUA365: Innovación por el Agua
 * **Fundación Ingeniería Sin Fronteras Chile & FCFM (U. de Chile)** 👉 [Ver Certificado](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg)
   * Co-diseño de soluciones tecnológicas y monitoreo para resolver problemáticas hídricas mediante ingeniería sustentable.
 
-### 🏥 Desafío de Innovación: Salud SONDA
+### Desafío de Innovación: Salud SONDA
 * **Equipo BridgeOps (Finalista)** - *SONDA & Universidad de Chile* 👉 [Ver Finalistas](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Desaf%C3%ADo%20Salud%20SONDA%20Kevin%20Araya.jpg)
   * Finalista en el desafío corporativo para la creación de soluciones tecnológicas aplicadas al sector salud.
-
----
-
-## Stack de Conocimientos Complementarios
-* **Análisis y BI:** Power BI, DAX, Power Query, Excel Avanzado.
-* **Automatización:** Power Automate.
-* **Gestión y Planificación:** Jira, Metodología Scrum (Sprints).
-* **Desarrollo e Innovación:** HTML/CSS, JavaScript, Raspberry Pi, Integración IoT.
