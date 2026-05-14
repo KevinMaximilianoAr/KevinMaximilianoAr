@@ -1,4 +1,4 @@
-# ¡Hola! Soy Kevin Maximiliano Araya Miranda 👋
+# Repositorio de Kevin Maximiliano Araya Miranda
 
 **Egresado de Ingeniero Civil Industrial de Universidad de Tarapacá**
 
