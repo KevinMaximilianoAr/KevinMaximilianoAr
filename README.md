@@ -36,6 +36,10 @@ Bienvenido a mi repositorio de proyectos y certificados, en este espacio consoli
 ---
 
 ## Participaciones en Proyectos
+### Tablero DR&C 2026 | Codelco División Ministro Hales (Implementado)
+
+* **Dirección de Riesgos y Control** - *Proyecto de Business Intelligence y reportabilidad ejecutiva mediante Microsoft Power BI.* 👉 [Ver Proyecto](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Tablero%20DR%26C%20CODELCO%20Divisi%C3%B3n%20Ministro%20Hales.jpeg)
+  * Diseño y desarrollo de un tablero ejecutivo que integra la gestión de riesgos, controles, materializaciones, auditorías, verificaciones y planes de acción, fortaleciendo la trazabilidad de información y la toma de decisiones a nivel divisional.
 
 ### Jornadas Chilenas de la Computación (JCC) (En proceso)
 *  **Universidad de Talca** - *Equipo: Control de Asistencia Biométrico: Mediante huella dactilar y reconocimiento facial* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Control%20de%20Asistencia%20Biometrico-%20JCC.jpeg) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Correo%20de%20aceptaci%C3%B3n%20para%20JCC%202026.png)
