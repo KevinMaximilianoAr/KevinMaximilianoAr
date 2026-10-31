@@ -1,6 +1,6 @@
 # Repositorio de Kevin Maximiliano Araya Miranda
 
-**Ingeniero Civil Industrial de Universidad de Tarapacá - Ingeniero Trainee Mejora Continua - R&Q Ingeniería**
+**Ingeniero Civil Industrial - Ingeniero Trainee Mejora Continua - R&Q Ingeniería**
 
 Bienvenido a mi repositorio de proyectos y certificados, en este espacio consolido mi trayectoria de aprendizaje continuo y la aplicación práctica en entornos complejos. Mi objetivo es demostrar cómo la formación técnica se traduce en soluciones escalables.
 
