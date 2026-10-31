@@ -38,7 +38,7 @@ Bienvenido a mi repositorio de proyectos y certificados, en este espacio consoli
 ## Participaciones en Proyectos
 
 ### Jornadas Chilenas de la Computación (JCC) (En proceso)
-*  **Universidad de Talca** - *Equipo: Control de Asistencia Biométrico: Mediante huella dactilar y reconocimiento facial* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Control%20de%20Asistencia%20Biometrico-%20JCC.jpeg?utm_source=chatgpt.com) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Selecci%C3%B3n%20Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg.png)
+*  **Universidad de Talca** - *Equipo: Control de Asistencia Biométrico: Mediante huella dactilar y reconocimiento facial* 👉 [Ver Programa](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Control%20de%20Asistencia%20Biometrico-%20JCC.jpeg) | 👉 [Ver Selección](https://github.com/KevinMaximilianoAr/KevinMaximilianoAr/blob/main/Proyectos%20Kevin%20Araya%20Miranda/Selecci%C3%B3n%20Programa%20Estudiantil%20AQUA365%20Kevin%20Araya.jpg.png)
   * Diseño y evaluación preliminar de un sistema de control de asistencia biométrico para pymes, con arquitectura Local-First Edge-to-Cloud, adjudicado para el diseño e implementación de un sistema de asistencia basado en hardware, sensores biométricos y reconocimiento facial.
 
 ### Programa AQUA365: Innovación por el Agua (Finalizado)
